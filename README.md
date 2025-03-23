@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Anton
-#### I am BMSTU student who interested in DevOps and Backend
+## Hi there 👋, my name is Anton
+### I am BMSTU student who interested in DevOps and Backend
 ![I am BMSTU student who interested in DevOps and Backend](https://i.redd.it/odp5mi64gyy21.png)
 
 
-Skills: Python, C, Linux, Docker, Git
+### Skills: Python, C, Linux, Docker, Git
 
 
 
